@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-tcp",
+  "version": "1.0.0",
+  "description": "A basic tcp server client example",
+  "main": "index.js",
+  "scripts": {
+    "start-server": "node server",
+    "start-client": "node client"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alenakhineika/nodejs-tcp.git"
+  },
+  "author": "Alena Khineika <alena.khineika@gmail.com> (https://github.com/alenakhineika)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alenakhineika/nodejs-tcp/issues"
+  },
+  "homepage": "https://github.com/alenakhineika/nodejs-tcp#readme"
+}
